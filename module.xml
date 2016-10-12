@@ -1,6 +1,0 @@
-<module>
-	<id>nabu.testing.images</id>
-	<name>Testing Images</name>
-	<description>This module adds support for image diffing</description>
-	<version>1.0</version>
-</module>
